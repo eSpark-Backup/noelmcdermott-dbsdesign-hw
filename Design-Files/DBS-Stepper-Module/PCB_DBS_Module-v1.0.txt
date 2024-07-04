@@ -1,0 +1,48 @@
+Board Information Report
+Filename     : C:\Users\LiberDB\Documents\GitHub\noelmcdermott-dbsdesign-hw\Design-Files\DBS-Stepper-Module\PCB_DBS_Module-v1.0.PcbDoc
+Date         : 7/4/2024
+Time         : 9:25:32 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 5177.001milsx4125.001mils
+    Components on board, 149
+count : 2
+
+Routing Information
+    Routing completion, 23.88%
+    Connections, 356
+    Connections routed, 85
+    Connections remaining, 271
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 14, 422, 0, 279, 0, 11, 0, 0
+    Bottom Layer, 0, 0, 0, 84, 0, 0, 0, 0
+    Dimensions, 0, 0, 0, 0, 0, 0, 0, 144
+    Board Outline, 0, 0, 0, 8, 0, 0, 0, 0
+    Multi-Layer, 0, 68, 72, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 23, 0, 0, 954, 341, 34, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 1, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 14
+
+Drill Pairs, Vias
+count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 1.556, 1003.768, 7%
+    Bottom Layer, 0.57, 368.042, 3%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    62.992mils, 0, 0
+    70.866mils, 0, 0
+count : 3
