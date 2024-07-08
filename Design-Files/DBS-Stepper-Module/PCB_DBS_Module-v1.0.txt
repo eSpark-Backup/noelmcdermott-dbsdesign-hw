@@ -1,8 +1,8 @@
 Board Information Report
-Filename     : C:\Users\MarsVirgo\Documents\GitHub\noelmcdermott-dbsdesign-hw\Design-Files\DBS-Stepper-Module\PCB_DBS_Module-v1.0.PcbDoc
-Date         : 7/7/2024
-Time         : 9:45:40 PM
-Time Elapsed : 00:00:01
+Filename     : C:\Users\LiberDB\Documents\GitHub\noelmcdermott-dbsdesign-hw\Design-Files\DBS-Stepper-Module\PCB_DBS_Module-v1.0.PcbDoc
+Date         : 7/8/2024
+Time         : 10:33:28 PM
+Time Elapsed : 00:00:00
 
 General
     Board Size, 5177.001milsx4125.001mils
@@ -10,20 +10,18 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 56.46%
+    Routing completion, 73.03%
     Connections, 356
-    Connections routed, 201
-    Connections remaining, 155
+    Connections routed, 260
+    Connections remaining, 96
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 13, 422, 0, 469, 0, 43, 0, 0
-    Signal 1, 0, 0, 0, 0, 0, 0, 0, 0
-    Signal 2, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Layer, 0, 0, 0, 170, 0, 1, 0, 0
-    Dimensions, 0, 0, 0, 0, 0, 0, 0, 144
+    Top Layer, 13, 422, 0, 640, 0, 54, 2, 0
+    Bottom Layer, 0, 0, 0, 177, 0, 1, 5, 0
+    Dimensions, 0, 0, 0, 16, 2, 0, 0, 144
     Board Outline, 25, 0, 0, 45, 0, 0, 0, 0
-    Multi-Layer, 0, 68, 214, 0, 0, 0, 7, 0
+    Multi-Layer, 0, 68, 308, 0, 0, 0, 7, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Top Overlay, 23, 0, 0, 954, 337, 34, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
@@ -33,40 +31,18 @@ Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 0, 0, 1, 0, 0
     Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
-count : 16
+count : 14
 
 Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 2.42, 1561.49, 11%
-    Signal 1, 0.351, 226.325, 2%
-    Signal 2, 0.351, 226.325, 2%
-    Bottom Layer, 1.388, 895.264, 7%
-count : 4
+    Top Layer, 3.461, 2232.984, 16%
+    Bottom Layer, 3.521, 2271.424, 17%
+count : 2
 
 Non-Plated Hole Size, Pads, Vias
     0mils, 0, 0
     62.992mils, 0, 0
     70.866mils, 0, 0
 count : 3
-
-Plated Hole Size, Pads, Vias
-    0mils, 0, 0
-    11.811mils, 0, 0
-    32.284mils, 0, 0
-    35.433mils, 0, 0
-    35.434mils, 0, 0
-    37.402mils, 0, 0
-    39.37mils, 0, 0
-    39.37mils, 0, 0
-    43.308mils, 0, 0
-    51.182mils, 0, 0
-    55.118mils, 0, 0
-    62.992mils, 0, 0
-    62.992mils, 0, 0
-    118.11mils, 0, 0
-count : 14
-
-Non-Plated Slot Size / Length, Pads
-count : 0
