@@ -1,32 +1,32 @@
 Board Information Report
 Filename     : C:\Users\LiberDB\Documents\GitHub\noelmcdermott-dbsdesign-hw\Design-Files\DBS-Stepper-Module\PCB_DBS_Module-v1.0.PcbDoc
-Date         : 7/8/2024
-Time         : 10:33:28 PM
-Time Elapsed : 00:00:00
+Date         : 7/9/2024
+Time         : 6:57:23 PM
+Time Elapsed : 00:00:01
 
 General
-    Board Size, 5177.001milsx4125.001mils
+    Board Size, 5176.999milsx4125.001mils
     Components on board, 149
 count : 2
 
 Routing Information
-    Routing completion, 73.03%
+    Routing completion, 74.16%
     Connections, 356
-    Connections routed, 260
-    Connections remaining, 96
+    Connections routed, 264
+    Connections remaining, 92
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 13, 422, 0, 640, 0, 54, 2, 0
-    Bottom Layer, 0, 0, 0, 177, 0, 1, 5, 0
-    Dimensions, 0, 0, 0, 16, 2, 0, 0, 144
-    Board Outline, 25, 0, 0, 45, 0, 0, 0, 0
-    Multi-Layer, 0, 68, 308, 0, 0, 0, 7, 0
+    Top Layer, 13, 422, 0, 657, 0, 54, 2, 0
+    Bottom Layer, 0, 0, 0, 178, 0, 1, 5, 0
+    Dimensions, 0, 0, 0, 0, 0, 0, 0, 144
+    Board Outline, 25, 0, 0, 46, 0, 0, 0, 1
+    Multi-Layer, 0, 68, 309, 0, 0, 0, 7, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Top Overlay, 23, 0, 0, 954, 337, 34, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 0, 0, 0, 0, 1, 0, 16, 0
+    Bottom Overlay, 0, 0, 0, 0, 3, 0, 16, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 0, 0, 1, 0, 0
@@ -37,8 +37,8 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 3.461, 2232.984, 16%
-    Bottom Layer, 3.521, 2271.424, 17%
+    Top Layer, 3.467, 2236.657, 16%
+    Bottom Layer, 3.524, 2273.39, 17%
 count : 2
 
 Non-Plated Hole Size, Pads, Vias
