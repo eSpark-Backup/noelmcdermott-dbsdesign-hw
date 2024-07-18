@@ -98,6 +98,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WOFPLPEC
 
 [Document4]
+DocumentPath=Stepper-Driver-Sheet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
 DocumentPath=Relay-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -114,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFONWZLB
 
-[Document5]
+[Document6]
 DocumentPath=Buzzer-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYONSEYL
 
-[Document6]
+[Document7]
 DocumentPath=20x4-Display-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GOMZMNTO
 
-[Document7]
+[Document8]
 DocumentPath=01M21V00-Sensor-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWJUTKOI
 
-[Document8]
+[Document9]
 DocumentPath=0-24mA-Input-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBZWMQUS
 
-[Document9]
+[Document10]
 DocumentPath=Optical-Encoder-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XQANERND
 
-[Document10]
+[Document11]
 DocumentPath=Connectors-SW-LEDs-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -215,23 +232,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VZHHCNDA
-
-[Document11]
-DocumentPath=Stepper-Driver-Sheet.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [Document12]
 DocumentPath=Controller-Sheet.Harness
@@ -308,7 +308,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
